@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    color: rgb(0, 0, 0);
+    height: 50%;
+}
+
+.container {
+    max-width: 100%;
+    background-color: black;
+}
+
+.card {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h6 {
+    display: inline;
+}
+#tv-medium-widget-7b7d2 {
+    margin-top: 0px;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  
+    > .col,
+    > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
